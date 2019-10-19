@@ -7,13 +7,12 @@
 </div>
 
 <div align="center">
-  <img src="veterinary-patients.png" alt="veterinary-patients">
+  <img src="public/veterinary-patients.png" alt="veterinary-patients">
 </div>
 
 ## Getting Started
 
-- Appointment management with Class and Stateless Functional Components.
-- Appointment management with Hooks.
+Appointment management with Hooks.
 
 ### Prerequisites
 
